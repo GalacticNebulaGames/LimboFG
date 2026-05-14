@@ -10,11 +10,7 @@
 | Feature Lock    | 15/05/2026                  |
 | Release         | 15/05/2026                     |
 
-## [Play Limbo Game]([https://galacticnebulagames.github.io/BBRM/](https://galacticnebulagames.com/LimboFG/))
-
-## Theme
-
-Keys
+## [Play Limbo Game](https://galacticnebulagames.com/LimboFG/)
 
 # Scope
 
