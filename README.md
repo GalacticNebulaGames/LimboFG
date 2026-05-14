@@ -7,8 +7,8 @@
 | Authors         | Galactic Nebula Games                 |
 | Target Audience | Gamers|
 | Target Platform | Web                 |
-| Feature Lock    | 16/10/2025                  |
-| Release         | 16/10/2025                     |
+| Feature Lock    | 15/05/2026                  |
+| Release         | 15/05/2026                     |
 
 ## [Play Limbo Game]([https://galacticnebulagames.github.io/BBRM/](https://galacticnebulagames.com/LimboFG/))
 
@@ -31,6 +31,6 @@ Keys
   
     <img width="300" src="https://i.ytimg.com/vi/gGz9rPR4pbw/maxresdefault.jpg"/>
 
-- Baldi
+- isolation
   
     <img width="300" src="https://i.scdn.co/image/ab67616d0000b273154d78a79a22509f3b2b74ac"/>
